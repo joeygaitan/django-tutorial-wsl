@@ -1,1 +1,1 @@
-#Django Tutorial WSL application
+# Django Tutorial WSL application
